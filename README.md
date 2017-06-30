@@ -1,4 +1,4 @@
-#Build the maven project
+# Build the maven project
 mvn clean install
 
 # In order to run the FileWatcherObserverUsingApache class as main
